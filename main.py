@@ -1,7 +1,6 @@
-import os
-import sys
-import json
+def main():
+    print("Hello from dsc190-assignment05!")
 
-def greet():
-    x=1+2
-    return x
+
+if __name__ == "__main__":
+    main()
